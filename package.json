@@ -1,0 +1,17 @@
+{
+  "name": "customerapp",
+  "version": "1.0.0",
+  "description": "simple customer management app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "~2.5.7",
+    "express": "*",
+    "express-validator": "^4.3.0"
+  },
+  "author": "etwin",
+  "license": "BSD-2-Clause"
+}
